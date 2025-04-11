@@ -5,8 +5,8 @@ This project involves a comprehensive analysis on "Amazon" dataset using SQL.The
 The following Readme will provide all the information about the project.
 
 ## Objective 
-** There are Three Branches and Cities to observing highest revenue generated.
-** Idenitify the Sales,Prodcut,Customers Analysis on the given Dataset.
+### There are Three Branches and Cities to observing highest revenue generated.
+### Idenitify the Sales,Prodcut,Customers Analysis on the given Dataset.
 ** Observing the Customer ratings on each Products.
 ** It will Helps to enhance the business sales.
 
