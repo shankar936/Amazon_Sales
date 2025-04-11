@@ -10,7 +10,7 @@ The following Readme will provide all the information about the project.
 ## Schema 
 create schema amazon;
 use amazon ; 
-
+``` sql 
 drop table if exists sales; 
 create table sales 
 (
@@ -32,4 +32,5 @@ create table sales
         grossincome float,
         rating float 
 );
+
 
