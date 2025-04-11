@@ -1,8 +1,8 @@
 # Amazon Data Analysis using SQL 
 
 ## Overview 
-This project involves a comprehensive analysis on "Amazon" dataset using SQL.The goal is to extract valuable insights from "Amazon" dataset on Product,Customer,Sales and answer the business questions based on the dataset.
-The following Readme will provide all the information about the project.
+This project entails a comprehensive analysis of an "Amazon Sales" dataset using SQL. The primary objective is to derive meaningful insights related to products, customers, and overall sales performance. By writing and executing SQL queries, the project addresses key business questions and uncovers trends, patterns, and opportunities within the dataset to support data-driven decision-making.
+
 
 ## Objective
 ** There are Three Branches and Cities to observing highest revenue generated.Idenitify the Sales,Prodcut,Customers Analysis on the given Dataset.Observing the Customer ratings on each Products.It will Helps to enhance the business sales.
