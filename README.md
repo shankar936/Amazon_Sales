@@ -5,7 +5,7 @@ This project involves a comprehensive analysis on "Amazon" dataset using SQL.The
 The following Readme will provide all the information about the project.
 
 ## Dataset 
-['Amazon dataset :']("C:\Users\Shankar\OneDrive\Documents\personal\sql\Amazon.csv")
+[Amazon dataset :]("C:\Users\Shankar\OneDrive\Documents\personal\sql\Amazon.csv")
 
 ## Schema 
 create schema amazon;
