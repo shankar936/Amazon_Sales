@@ -5,8 +5,7 @@ This project involves a comprehensive analysis on "Amazon" dataset using SQL.The
 The following Readme will provide all the information about the project.
 
 ## Dataset 
-
---**Dataset Link:**[Amazon dataset :]("C:\Users\Shankar\OneDrive\Documents\personal\sql\Amazon.csv")
+I will Upload the dataset it sepeartly in repository.
 
 ## Schema 
 create schema amazon;
@@ -33,5 +32,6 @@ create table sales
         grossincome float,
         rating float 
 );
+
 
 
