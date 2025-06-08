@@ -5,10 +5,7 @@ This project entails a comprehensive analysis of an "Amazon Sales" dataset using
 
 
 ## Objective
-** There are Three Branches and Cities to observing highest revenue generated.Idenitify the Sales,Prodcut,Customers Analysis on the given Dataset.Observing the Customer ratings on each Products.It will Helps to enhance the business sales.
-
-## Dataset 
-I will Upload the dataset it sepeartly in repository.
+** It contains three Branches and Cities to observing highest revenue generated.Idenitify the Sales,Prodcut,Customers Analysis on the given Dataset.Observing the Customer ratings on each Products.It will Helps to enhance the business sales.
 
 ## Schema 
 ``` sql
@@ -196,9 +193,9 @@ order by revenue desc;
 ```
 
 ## Findings and Conclusions:
-** Sales Analysis : Branch C and city Naypyitaw generated highest revenue.
-** Product Analysis : Food and beverages has generated highest revenue comapre to remaining products. 
-** Customer Analysis : There are two types of customers they prefer to sold Electronic accessories.
+-- Sales Analysis : Branch C and city Naypyitaw generated highest revenue.
+-- Product Analysis : Food and beverages has generated highest revenue comapre to remaining products. 
+-- Customer Analysis : There are two types of customers they prefer to sold Electronic accessories.
 
 ### Conclusions 
-** Analysing this dataset the customer ratings has higher for Electronic accessories.Here i identified If we Increase sales on Electronic accessories then it will generate more revenue.  
+-- Analysing this dataset the customer ratings has higher for Electronic accessories.Here I identified If we Increase sales on Electronic accessories then it will generate more revenue.  
